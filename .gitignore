@@ -1,0 +1,9 @@
+# arquivos gerados ao compilar
+*.class
+
+# NetBeans / IntelliJ / VS Code
+nbproject/private/
+build/
+out/
+.idea/
+.vscode/
